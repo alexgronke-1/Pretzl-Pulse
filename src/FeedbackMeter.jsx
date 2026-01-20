@@ -243,7 +243,7 @@ export default function FeedbackMeter() {
       
       {/* Background orb watermark */}
       <div 
-        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 opacity-15 pointer-events-none"
+        className="absolute bottom-0 right-0 w-[32rem] h-[32rem] opacity-15 pointer-events-none"
         style={{
           backgroundImage: `url(${PRETZL_ORB})`,
           backgroundSize: 'contain',
