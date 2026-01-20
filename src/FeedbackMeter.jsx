@@ -290,7 +290,7 @@ export default function FeedbackMeter() {
           {/* Response count */}
           <div className="text-center mt-8 pt-6 border-t border-gray-700">
             <span className="text-gray-400">
-              {averages.count} of 10 responses
+              {averages.count} responses
             </span>
             {lastReset && (
               <span className="text-gray-500 text-sm ml-4">
