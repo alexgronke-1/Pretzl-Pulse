@@ -360,7 +360,7 @@ export default function FeedbackMeter() {
         
         {/* Footer */}
         <div className="text-center mt-8 text-gray-600 text-xs">
-          © Pretzl Group 2025
+          © Pretzl 2026
         </div>
       </div>
     </div>
