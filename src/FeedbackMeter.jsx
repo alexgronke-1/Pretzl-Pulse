@@ -260,7 +260,7 @@ export default function FeedbackMeter() {
             alt="Pretzl" 
             className="h-6 mx-auto mb-4 opacity-70"
           />
-          <h1 className="text-3xl font-bold text-white mb-2">Mood-o-Meter</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">Mood-O-Meter</h1>
           <p className="text-gray-400">Thought Leadership Team</p>
         </div>
 
